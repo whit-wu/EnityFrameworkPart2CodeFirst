@@ -1,0 +1,15 @@
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\bin\Debug\EntityFrameworkPart2CodeFirst.exe.config
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\bin\Debug\EntityFrameworkPart2CodeFirst.exe
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\bin\Debug\EntityFrameworkPart2CodeFirst.pdb
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\bin\Debug\EntityFramework.dll
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\bin\Debug\EntityFramework.xml
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.csprojAssemblyReference.cache
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.csproj.CoreCompileInputs.cache
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.csproj.CopyComplete
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.exe
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.pdb
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.Migrations.InitialCreate.resources
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.csproj.GenerateResource.cache
+F:\Programs\C#\EntityFrameworkPart2CodeFirst\EntityFrameworkPart2CodeFirst\obj\Debug\EntityFrameworkPart2CodeFirst.Migrations.EmpSalaryChange.resources
