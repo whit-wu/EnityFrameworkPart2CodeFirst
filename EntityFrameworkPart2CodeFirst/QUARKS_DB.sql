@@ -3,6 +3,9 @@
 -- the code so that it uses the appropriate syntax.
 
 CREATE DATABASE QUARKS
+GO
+
+USE QUARKS
 
 CREATE TABLE CUSTOMERS (
 	 CUSTOMER_ID INT PRIMARY KEY,
